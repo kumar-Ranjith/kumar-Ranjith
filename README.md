@@ -46,4 +46,4 @@ Analyzed **2M+ social media posts** to map sentiment trends and uncover correlat
 ---
 
 ### 📫 **Let’s Connect**  
-- [LinkedIn](www.linkedin.com/in/ranjithnkumar)  
+- [LinkedIn]([link](www.linkedin.com/in/ranjithnkumar))  
