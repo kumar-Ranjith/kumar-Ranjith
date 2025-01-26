@@ -26,10 +26,10 @@ I’m **Ranjith Kumar**, a passionate **Data Science** and **Business Intelligen
 
 ### 📂 **Highlighted Projects**  
 
-#### 2. [Deep Learning Skin Disease Classification](link)  
+#### 2. [Deep Learning Skin Disease Classification]([link](https://github.com/kumar-Ranjith/skinDiseaseClassification))  
 Built and deployed a **CNN-based model** for classifying skin diseases such as acne, actinic keratosis, basal cell carcinoma, and more, using **TensorFlow** and **Google Cloud Platform**.
 
-#### 3. [Sentiment Analysis Using Social Media Data](link)  
+#### 3. [Sentiment Analysis Using Social Media Data]([link](https://github.com/kumar-Ranjith/Sentiment-Analysis-With-Twitter-LGBTQ-))  
 Analyzed **2M+ social media posts** to map sentiment trends and uncover correlations with social issues, providing actionable insights into **hate crime data** in major cities.
 
 ---
