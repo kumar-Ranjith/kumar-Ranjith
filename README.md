@@ -45,5 +45,3 @@ Analyzed **2M+ social media posts** to map sentiment trends and uncover correlat
 - Optimizing **ELT pipelines** and **cloud-based data engineering**  
 ---
 
-### 📫 **Let’s Connect**  
-- [LinkedIn]((www.linkedin.com/in/ranjithnkumar))  
